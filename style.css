@@ -1,0 +1,69 @@
+.myNavbar
+{
+    position: sticky;
+    top:0;
+    z-index: 99999;
+}
+
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv img
+{
+     width: 100%;
+}
+
+.travel_mainDiv h3 , .travel_mainDiv p
+{
+    margin: 20px;
+}
+header
+{color: white;}
+
+.filme_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i
+{
+    float: right;
+}
+
+.conquistas_text span
+{
+    color: orange;
+}
+
+.h2
+{
+ color: white;
+}
+.h3
+{
+    color: white;
+}
+.section
+{
+    color: white;
+}
+.novidade
+{
+ margin-bottom: 20px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
